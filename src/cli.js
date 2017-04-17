@@ -2,6 +2,7 @@ import colors from './common/colors';
 const cli     = module.exports;
 import pkg from '../package.json';
 import updateNotifier from 'update-notifier';
+import winston from 'winston';
 
 cli.version = pkg.version;
 

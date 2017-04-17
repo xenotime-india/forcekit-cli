@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2015, Yanis Wang <yanis.wang@gmail.com>
+ * Copyright (c) 2015, Sandeep Kumar <sandeepkhoj@gmail.com>
  * MIT Licensed
  */
 export default mod => {
@@ -65,7 +65,7 @@ export default mod => {
         rule: {
           id: rule.id,
           description: rule.description,
-          link: `https://github.com/yaniswang/VFHint/wiki/${rule.id}`
+          link: `https://github.com/xenotime-india/VFHint/wiki/${rule.id}`
         }
       });
     }

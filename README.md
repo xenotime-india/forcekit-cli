@@ -156,6 +156,17 @@ You can call ````forcekit <command> --help```` to find out more about all of the
 19. *tag-self-close* : Empty tags must be self closed.
 20. *tagname-lowercase* : All html element names must meet the camelCase style.
 
+## How to report bugs
+
+You can create a [new issue](https://github.com/xenotime-india/forcekit-cli/issues) in GitHub and describe your problem or suggestion.
+
 ## License
 
-This project is licensed under the [MIT License](https://github.com/xenotime-india/forcekit/blob/master/LICENSE).
+This project is licensed under the **MIT License**.
+Copyright (c) 2017-2018 Xenotime < [xenotime-india@gmail.com](mailto:xenotime-india@gmail.com)>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

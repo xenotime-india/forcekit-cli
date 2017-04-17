@@ -27,7 +27,7 @@
     "lint": "./node_modules/.bin/eslint src test",
     "build": "./node_modules/.bin/cross-env BABEL_ENV=commonjs babel src --out-dir lib",
     "prepublish": "npm run clean && npm run build",
-    "build:watch" : "npm run build -- --watch"
+    "build:watch": "npm run build -- --watch"
   },
   "dependencies": {
     "archiver": "^1.3.0",

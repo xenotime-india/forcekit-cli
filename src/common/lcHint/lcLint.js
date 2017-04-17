@@ -52,7 +52,6 @@ export default (directory, rules) => {
     });
 
     child.on('exit', (code) => {
-      console.log(stdout);
       return resolve(stdout);
     });
   });
