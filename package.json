@@ -1,7 +1,7 @@
 {
   "name": "forcekit",
   "description": "A code review CLI that lets you scan your code for Apex, Visualforce and Lightning specific issues.",
-  "version": "1.2.7",
+  "version": "1.2.11",
   "author": "Xenotime <sandeepkhoj@gmail.com>",
   "bin": {
     "forcekit": "bin/cli.js"

@@ -1,7 +1,11 @@
 # forcekit CLI
 
 ## Introduction
-The forcekit CLI is a code review tool that lets you scan your code for Apex, Visualforce and Lightning specific issues.
+Sometimes it happens that due to lack of time or knowledge or in pressure we forget to follow the specified code quality standards which somehow impact the overall quality of the product. To measures the quality standards we are only left with the manually process of reviewing the code line by line which is time consuming as well as not that much reliable. 
+
+So to figure out this issues I have come up with a tool named forcekit CLI, which is a code review tool that lets you scan your code for Apex, Visualforce and Lightning specific issues. It helps in identifying those loop holes (dirty code) which impact the overall quality of the product i.e. Its helps you to know where there is a need to improve your code to match the standard quality.
+
+It’s a completely automated tool which will help you to enhance the quality of the code as well as of the product.
 
 ## Installation
 
